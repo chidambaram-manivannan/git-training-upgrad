@@ -1,0 +1,7 @@
+a
+sample
+file 
+for 
+testing
+
+"Hello world!"
